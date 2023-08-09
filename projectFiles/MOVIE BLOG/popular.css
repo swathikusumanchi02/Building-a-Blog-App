@@ -1,0 +1,19 @@
+*{
+    box-sizing:border-box;
+}
+.article-image {
+    float : left;
+    width : 50%;
+    height : 50%;
+    padding: 3px;
+}
+.article-category {
+    float : left;
+    width : 50%;
+    height : 50%;
+    padding: 3px;
+}
+
+.article-image img {
+    height : 100px;
+}
